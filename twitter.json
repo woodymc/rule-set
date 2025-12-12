@@ -1,0 +1,91 @@
+{
+	"version": 2,
+	"rules": [{
+		"domain_suffix": [
+			"twitter.com",
+			"t.co",
+			"twimg.com",
+			"ads-twitter.com",
+			"x.com",
+			"pscp.tv",
+			"twtrdns.net",
+			"twitpic.com",
+			"twttr.com",
+			"periscope.tv",
+			"tweetdeck.com",
+			"twitter.co",
+			"twitterinc.com",
+			"twitteroauth.com",
+			"twitterstat.us"
+		],
+	},{
+		"ip_cidr": [
+			"8.25.194.0/23",		# United States Twitter - LVLT-TWITT-1-8-25-194
+			"8.25.196.0/23",		# United States Twitter - LVLT-TWITT-1-8-25-196
+			"46.145.252.136/29",	# Netherlands Twitter4you BV - OTS509242
+			"62.209.32.88/30",		# Germany Twitter Germany GmbH - TWITTER
+			"62.216.234.64/29",		# United Kingdom Twitter UK Limited - TWITTER_UK_LIMITED
+			"64.63.0.0/18",			# United States Twitter Inc - TWITTER-NETWORK
+			"64.125.109.48/28",		# United States Twitter - ZAYO-IPYX-102334-64-125-109-48-28
+			"64.125.172.208/28",	# United States Twitter, Inc - ABOV-T01337-64-125-172-208-28
+			"65.98.184.232/29",		# United States Twitter Incorporated - NETBLK-65-98-184-232
+			"66.165.181.208/28",	# United States Twitter - TERRENAP-0-18
+			"69.12.56.0/21",		# United States Twitter Inc - TWITTER-NETWORK
+			"69.195.160.0/19",		# United States Twitter Inc - TWITT
+			"72.46.253.80/28",		# United States Twitter - TERRENAP-0-20
+			"74.126.14.128/25",		# United States Twitter Inc - I123-7412614128-201585
+			"77.61.65.228/30",		# Netherlands Twitter 4you BV - OTS742221
+			"80.252.84.160/30",		# Netherlands Twitter Netherlands - TWITTER_NETHERLANDS
+			"82.199.73.48/30",		# Netherlands Twitter UK Ltd - TC-TWITTER
+			"89.202.32.92/30",		# Germany Twitter Inc - TWITTER
+			"89.202.36.244/30",		# Germany Twitter Germany GmbH - TWITTER
+			"103.252.112.0/22",		# Singapore Twitter Asia Pacific Pte. Ltd - TWITTER-ASIA-SG
+			"104.244.40.0/21",		# United States Twitter Inc - TWITTER-NETWORK
+			"116.12.232.208/29",	# Singapore Twitter Singapore Pte Ltd - TWITTER-SG
+			"119.27.26.208/29",		# Japan Twitter Japan K.K. - TWITTER-TY1
+			"119.27.58.152/29",		# Japan Twitter Japan K.K. - TWITTER-TY2
+			"128.177.123.16/28",	# United States Twitter - NET-128-177-123-16-28
+			"183.177.20.224/29",	# United States Twitter, Inc - TWITTER-TY2
+			"185.43.183.0/29",		# France Twitter - IAVPN-TWITTER
+			"192.48.236.0/23",		# United States Twitter Inc - TWITTER-NETWORK
+			"192.133.76.0/22",		# United States Twitter Inc - TWITTER-NETWORK
+			"195.219.72.48/28",		# United Kingdom Twitter Network UK - TWITTER-TATAC
+			"198.24.32.64/28",		# United States Twitter - TELX-1356640846-7159
+			"199.16.156.0/22",		# United States Twitter Inc - TWITTER-NETWORK
+			"199.59.148.0/22",		# United States Twitter Inc - TWITTER-NETWORK
+			"199.96.56.0/21",		# United States Twitter Inc - TWITTER-NETWORK
+			"202.79.204.84/30",		# Singapore Twitter Asia Pacific Pte Ltd - TWITTER
+			"202.160.128.0/22",		# Singapore Twitter Asia Pacific Pte. Ltd - TWITTER-ASIA-SG
+			"202.177.205.124/30",	# Hong Kong Twittersg HK1 Sipc3 00 1 - TWITTER-HK1
+			"208.65.104.24/30",		# United States Twitter - TELX-1317239270
+			"208.65.104.64/28",		# United States Twitter - TELX-1317239212
+			"208.65.104.104/29",	# United States Twitter, Inc - TELX-1432758011
+			"209.237.192.0/19",		# Netherlands Twitter Inc - TWITT
+			"212.71.240.128/30",	# United Kingdom Twitter UK Limited - TWITTER
+			"213.200.102.216/29"	# Spain Twitter Spain S.L - TWITTER-SPAIN--TINET
+		]
+    }]
+}
+
+#	13.33.247.243	# Amazon
+#	13.225.15.250	# Amazon
+#	13.225.33.247	# Amazon
+#	13.249.5.250	# Amazon
+#	18.66.95.249	# Amazon
+#	18.66.123.241	# Amazon
+#	18.160.187.253	# Amazon
+#	18.165.126.254	# Amazon
+#	34.64.0.0/10	# Google
+#	54.230.216.248	# Amazon
+#	93.184.220.70	# RIPE Network Coordination Centre (RIPE) - 93-RIPE
+#	99.86.92.242	# Amazon
+#	108.156.13.243	# Amazon
+#	108.157.229.247	# Amazon
+#	143.204.221.250	# Amazon
+#	151.101.0.0/16	# Fastly, Inc. (SKYCA-3)
+#	152.199.21.141	# Edgecast
+#	162.159.140.229	# Cloudflare
+#	172.66.0.227	# Cloudflare
+#	192.229.233.50	# Edgecast Inc. (EDGEC-25) - EDGECAST-NETBLK-08
+#	192.229.220.133	# Edgecast Inc. (EDGEC-25) - EDGECAST-NETBLK-08
+#	199.59.243.223	# Bodis
