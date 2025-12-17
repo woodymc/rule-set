@@ -1,0 +1,893 @@
+{
+	"version": 2,
+	"rules": [
+	{
+		"domain_keyword": [
+			"facebook",
+			"fb.",
+			"fbcdn",
+			"fbsbx",
+			"instagram",
+			"messenger",
+			"meta.",
+			"whatsapp"
+		],
+		"domain_suffix": [
+			"112nissewaard.nl",
+			"32665.mobi",
+			"abdeymovec.duckdns.org",
+#			"aboutfacebook.com",
+#			"accessfacebookfromschool.com",
+			"accountkit.com",
+			"acebooik.com",
+			"acebook.com",
+			"advancediddetection.com",
+			"aea.mo",
+			"agrikrafts.com",
+			"ajaypatel.com",
+			"api.parse.com",
+#			"askfacebook.net",
+#			"askfacebook.org",
+			"atdmt2.com",
+			"atlasdmt.com",
+			"atlasinstreamvideo.com",
+			"atlasonepoint.com",
+			"atlassolutions.com",
+			"baijee.tw",
+			"barlabay.com",
+			"bars.app",
+			"bistro.io",
+#			"boostwithmeta.com",
+#			"boostwithmeta.net",
+			"bulletin.com",
+#			"buyingfacebooklikes.com",
+			"cadyman.dnsocean.xyz",
+			"calibra.com",
+			"capecastilesoaps.com",
+#			"careersatfb.com",
+#			"careersatmeta.net",
+#			"cdninstagram.com",
+			"celebgramme.com",
+#			"china-facebook.com",
+			"chysser.zxc.yt",
+			"click-url.com",
+			"coloneldomains.com",
+#			"como-hackearfacebook.com",
+			"crot.pointdns.xyz",
+			"crowdtangle.com",
+			"dacebook.com",
+			"denol.sytes.net",
+			"dmonline.vip",
+			"douglasazevedo.com",
+			"duckdns.org",
+			"dynoswap.org",
+			"engagementmap.net",
+			"engagementroi.net",
+			"estrela10show.com",
+			"expresswifi.com",
+			"f8.com",
+			"faacebok.com",
+			"faacebook.com",
+			"faasbook.com",
+			"facbebook.com",
+			"facbeok.com",
+			"facboo.com",
+			"facbook.com",
+			"facbool.com",
+			"facboox.com",
+			"faccebook.com",
+			"faccebookk.com",
+			"facdbook.com",
+			"facdebook.com",
+			"face-book.com",
+			"faceabook.com",
+			"facebboc.com",
+			"facebbook.com",
+			"facebboook.com",
+			"facebcook.com",
+			"facebdok.com",
+			"facebgook.com",
+			"facebhook.com",
+			"facebkkk.com",
+			"facebo-ok.com",
+			"faceboak.com",
+			"facebock.com",
+			"facebocke.com",
+			"facebof.com",
+			"faceboik.com",
+			"facebok.com",
+			"facebokbook.com",
+			"facebokc.com",
+			"facebokk.com",
+			"facebokok.com",
+			"faceboks.com",
+			"facebol.com",
+			"facebolk.com",
+			"facebomok.com",
+			"faceboo.com",
+			"facebooa.com",
+			"faceboob.com",
+			"faceboobok.com",
+			"facebooc.com",
+			"faceboock.com",
+			"facebood.com",
+			"facebooe.com",
+			"faceboof.com",
+			"facebooi.com",
+			"facebooik.com",
+			"facebooik.org",
+			"facebooj.com",
+#			"facebook.br",
+#			"facebook.ca",
+#			"facebook.cc",
+#			"facebook.com",
+#			"facebook.design",
+#			"facebook.hu",
+#			"facebook.in",
+#			"facebook.net",
+#			"facebook.nl",
+#			"facebook.org",
+#			"facebook.se",
+#			"facebook.shop",
+#			"facebook.tv",
+#			"facebook.us",
+#			"facebook.wang",
+			"facebool.com",
+			"facebool.info",
+			"facebooll.com",
+			"faceboom.com",
+			"faceboon.com",
+			"faceboonk.com",
+			"faceboooik.com",
+			"faceboook.com",
+			"faceboop.com",
+			"faceboot.com",
+			"faceboox.com",
+			"facebopk.com",
+			"facebpook.com",
+			"facebuk.com",
+			"facebuok.com",
+			"facebvook.com",
+			"facebyook.com",
+			"facebzook.com",
+			"facecbgook.com",
+			"facecbook.com",
+			"facecbook.org",
+			"facecook.com",
+			"facecook.org",
+			"facedbook.com",
+			"faceebok.com",
+			"faceebook.com",
+			"faceebot.com",
+			"facegbok.com",
+			"facegbook.com",
+			"faceobk.com",
+			"faceobok.com",
+			"faceobook.com",
+			"faceook.com",
+			"facerbooik.com",
+			"facerbook.com",
+			"facesbooc.com",
+			"facesounds.com",
+			"facetook.com",
+			"facevbook.com",
+			"facewbook.co",
+			"facewook.com",
+#			"facfacebook.com",
+			"facfebook.com",
+			"fackebook.com",
+			"facnbook.com",
+			"facrbook.com",
+			"facvebook.com",
+			"facwebook.com",
+			"facxebook.com",
+			"fadebook.com",
+			"faebok.com",
+			"faebook.com",
+			"faebookc.com",
+			"faeboook.com",
+			"faecebok.com",
+			"faesebook.com",
+#			"fafacebook.com",
+			"faicbooc.com",
+			"fasebokk.com",
+			"fasebook.com",
+			"faseboox.com",
+			"favebook.com",
+			"favebook.com",
+			"faycbok.com",
+			"fb-notification.com",
+#			"fb.careers",
+#			"fb.com",
+#			"fb.gg",
+#			"fb.me",
+#			"fb.watch",
+			"fbacebook.com",
+			"fbaddins.com",
+			"fbbmarket.com",
+			"fbboostyourbusiness.com",
+#			"fbcdn.com",
+#			"fbcdn.net",
+			"fbdogfoodbeta.com",
+			"fbdownloader.com",
+			"fbfeedback.com",
+			"fbhome.com",
+			"fbidb.io",
+			"fbinc.com",
+			"fbinnovation.com",
+			"fbinthecommunity.com",
+			"fbmarketing.com",
+			"fbmessages.com",
+			"fbops.com",
+			"fbreg.com",
+			"fbrpms.com",
+#			"fbsbx.com",
+#			"fbsbx.net",
+			"fbsupport-covid.net",
+			"fbthirdpartypixel.com",
+			"fbthirdpartypixel.net",
+			"fbthirdpartypixel.org",
+			"fburl.com",
+			"fbwat.ch",
+			"fbwat.ch",
+			"fbworkmail.com",
+			"fbworkmail.com",
+			"fcacebook.com",
+			"fcaebook.com",
+			"fcebook.com",
+			"fcebookk.com",
+#			"fcfacebook.com",
+			"fdacebook.info",
+			"feacboo.com",
+			"feacbook.com",
+			"feacbooke.com",
+			"feacebook.com",
+			"fecbbok.com",
+			"fecbooc.com",
+			"fecbook.com",
+			"feceboock.com",
+			"fecebook.net",
+			"feceboox.com",
+			"fececbook.com",
+			"feook.com",
+			"ferabook.com",
+			"fescebook.com",
+			"fesebook.com",
+			"ff.im",
+#			"ffacebook.com",
+			"fgacebook.com",
+			"ficeboock.com",
+			"flipstagram.com",
+			"flowpunish.pointdns.site",
+			"fmcebook.com",
+			"fnacebook.com",
+			"forecastapp.net",
+			"fosebook.com",
+			"fpacebook.com",
+			"fqcebook.com",
+			"fqcebook.com",
+			"fquestions.com",
+			"fquestions.net",
+			"fquestions.org",
+			"fracebook.com",
+			"frebasics.com",
+			"frebasics.net",
+			"frebasics.org",
+			"frebasik.com",
+			"frebasix.com",
+			"freeb.com",
+			"freeb6.com",
+			"freebasic.com",
+			"freebasicinternet.com",
+			"freebasics.com",
+			"freebasics.net",
+			"freebasics.net",
+			"freebasics.org",
+			"freebasicservices.com",
+			"freebasik.net",
+			"freebasik.org",
+			"freebasixs.com",
+			"freebs.com",
+			"freebs.com",
+#			"freefacebook.com",
+#			"freefacebook.net",
+#			"freefacebookads.net",
+			"freefblikes.com",
+			"freindfeed.com",
+			"friendbook.info",
+			"friendfed.com",
+			"friendfed.com",
+			"friendfeed-api.com",
+			"friendfeed-media.com",
+			"friendfeed.com",
+			"friendfeed.com",
+			"friendfeedmedia.com",
+			"friendpheed.com",
+			"fsacebok.com",
+			"fscebook.com",
+			"fscebook.com",
+			"futureofbusinesssurvey.org",
+			"gacebook.com",
+			"gacebook.com",
+			"gameroom.com",
+			"gameroom.com",
+			"gfacecbook.com",
+			"goodsetups.com",
+			"gotoast.com",
+			"groups.com",
+			"groups.com",
+			"growbeyondimagination.com",
+#			"hackerfacebook.com",
+#			"hackfacebook.com",
+#			"hackfacebookid.com",
+			"hfquestions.net",
+#			"hifacebook.info",
+#			"howtohackfacebook-account.com",
+#			"hsfacebook.com",
+#			"httpfacebook.com",
+#			"httpsfacebook.com",
+#			"httpwwwfacebook.com",
+			"i.org",
+			"ig.me",
+			"igsonar.com",
+			"illumina.drymalla.de",
+			"ilumina.drymalla.de",
+			"imstagram.com",
+			"inastagram.com",
+			"inatagram.com",
+			"indtagram.com",
+			"info.internet.org",
+			"insagram.com",
+			"insatagram.com",
+			"insatgram.com",
+			"insights.onavo.com",
+			"insragram.com",
+			"instaagram.com",
+			"instagam.com",
+			"instagaram.com",
+			"instagarm.com",
+			"instaggram.com",
+			"instagr.am",
+			"instagr.com",
+			"instagra.com",
+			"instagraham.com",
+			"instagran.com",
+			"instagran.com.",
+			"instagrem.com",
+			"instagrm.com",
+			"instagrma.com",
+			"instagrom.com",
+			"instagrram.com",
+			"instagrsm.com",
+			"instagtam.com",
+			"instagtram.com",
+			"instalgram.com",
+			"instangram.com",
+			"instaram.com",
+			"instargam.com",
+			"instargram.com",
+			"instegram.com",
+			"instgaram.com",
+			"instgram.com",
+			"instragam.com",
+			"instragram.com",
+			"instrgram.com",
+			"instsgram.com",
+			"intagram.com",
+#			"internalfb.com",
+			"internet.org",
+			"internetdefenseprize.com",
+			"intgram.com",
+			"intsagram.com",
+			"isntagram.com",
+			"istagram.com",
+			"jav-hq.com",
+			"khcvnmk.impervadns.net",
+			"klik.me",
+			"l.wl.co",
+			"lassovideos.com",
+			"lazydonkey.co.uk",
+			"linkoculus.com",
+			"liverail.com",
+			"liverail.com",
+			"liverail.tv",
+			"lnstagram.com",
+			"login-account.net",
+			"m.me",
+			"mail2ff.com",
+			"mapillary.com",
+			"markzuckerberg.com",
+#			"messenger.com",
+#			"messengerkids.com",
+#			"meta.com",
+			"midentsolutions.com",
+			"mixer.com",
+#			"mobilefacebook.com",
+			"mobileironbackup.com",
+#			"moneywithfacebook.com",
+			"moves-app.com",
+			"msngr.com",
+			"myfbfans.com",
+			"neko-dev.com",
+			"newsfeed.com",
+			"nextstop.com",
+			"novi.com",
+			"nstagram.com",
+			"oculusair.com",
+			"omelettedufromage.net",
+			"online-deals.net",
+			"opencreate.org",
+			"p-i-p.co.za",
+			"parse.com",
+			"paulfisher.net",
+			"premvegan.com",
+			"purpletiesupport.com",
+			"redkix.com",
+			"registrarsafe.com",
+			"rocksdb.org",
+			"serverhub.net.nz",
+			"shop.topban.ru",
+			"sip.jillwilliamsdesign.com",
+			"skynetsecretary.com",
+			"sportstream.com",
+			"terragraph.com",
+			"thefind.com",
+			"threads.net",
+			"toplayerserver.com",
+			"unliml-gundamemmay.ml",
+			"wa.me",
+#			"whatsapp-plus.info",
+#			"whatsapp-plus.me",
+#			"whatsapp-plus.net",
+#			"whatsapp.biz",
+#			"whatsapp.cc",
+#			"whatsapp.com",
+#			"whatsapp.info",
+#			"whatsapp.net",
+#			"whatsapp.org",
+#			"whatsapp.tv",
+#			"whatsappbrand.com",
+			"wl.co",
+			"workplace.com",
+			"workplaceusecases.com",
+			"worldhack.com",
+			"wwwfacebok.com",
+			"x-immerse.net",
+			"zuckerberg.com",
+			"zuckerberg.net"
+		],
+		"ip_cidr": [
+		#### 3.0.0.0/9			Amazon T echnologies Inc. (AT-88-Z)
+			"3.33.221.48/32",			# wa
+			"3.33.252.61/32",			# wa
+
+		#### 12.0.0.0/8			AT&T Enterprises - CBB TIER-3 LAB
+			"12.3.24.248/29",		# United States Meta Platforms, Inc	- ATT-EIPAM
+			"12.8.142.136/29",		# United States Meta Platforms, Inc	- META-PLA63-142-136
+			"12.25.133.56/29",		# United States Meta Platforms, Inc	- ATT-EIPAM
+			"12.29.86.56/29",		# United States Meta Platforms, Inc	- ATT-EIPAM
+			"12.30.36.16/29",		# United States Meta Platforms, Inc	- META-PLA43-36-16
+			"12.33.5.40/29",		# United States Meta Platforms, Inc	- META-PLA54-5-40
+			"12.105.93.48/29",		# United States Meta Platforms, Inc	- ATT-EIPAM
+			"12.109.186.112/29",	# United States Meta Platforms, Inc	- META-PLA71-186-112
+			"12.168.43.32/29",		# United States Meta Platforms, Inc	- META-PLA10-43-32
+			"12.195.86.192/29",		# United States Meta Platforms, Inc	- META-PLA95-86-192
+			"12.229.124.72/29",		# United States Meta Platforms, Inc	- META-PLA34-124-72
+
+		#### 15.196.0.0/14		Amazon Technologies Inc. (AT-88-Z)
+			"15.197.206.217/32",		# wa
+			"15.197.210.208/32",		# wa
+
+		#### 27.0.0.0/8			Asia Pacific Network Information Centre (APNIC) - APNIC-27
+			"27.82.102.128/29",		# Japan Meta Platforms, Inc			- META-DATAV4
+
+		#### 31.0.0.0/8			RIPE Network Coordination Centre (RIPE)
+			"31.13.0.0/16",			# fb 2
+
+		#### 34.192.0.0/10		Amazon Technologies Inc. (AT-88-Z)
+			"34.192.181.12/32",		# wa
+			"34.193.38.112/32",		# wa
+			"34.194.71.217/32",		# wa
+			"34.194.255.230/32",	# wa
+
+		#### 45.64.0.0/16		Asia Pacific Network Information Centre (APNIC)
+		#	"45.64.0.0/16",			# fb 2
+			"45.64.40.0/22",		# geo-fb
+			"45.64.40.0/22",		# fb
+			"45.130.4.0/24",		# fb 2
+
+		#### 50.22.0.0/15		IBM Cloud (IBMC-24) - SOFTLAYER-4-9
+			"50.22.198.204/30",		# wa-2
+			"50.22.210.32/30",		# wa-2
+			"50.22.210.128/27",		# wa-2
+			"50.22.225.64/27",		# wa-2
+			"50.22.235.248/30",		# wa-2
+			"50.22.240.160/27",		# wa-2
+			"50.23.90.128/27",		# wa-2
+
+		#### 50.97.0.0/16		IBM Cloud (IBMC-24) - SOFTLAYER-4-10
+			"50.97.57.128/27",		# wa-2
+
+		#### 50.128.0.0-50.255.255.255		Comcast Cable Communications - LLC CCCH3-4
+			"50.197.153.120/29",	# Whatsapp Inc - WHATSAPPINC
+			"50.205.127.240/28", 	# Whats App - WHATSAPPS-1
+
+		#### 57.0.0.0/8			RIPE Network Coordination Centre (RIPE) - RIPE-ERX-57
+			"57.141.0.0/20",		# geo-fb
+		#	"57.141.0.0/24",		# fb
+		#	"57.141.3.0/24",		# fb
+		#	"57.141.5.0/24",		# fb
+		#	"57.141.7.0/24",		# fb
+		#	"57.141.8.0/24",		# fb
+		#	"57.141.10.0/24",		# fb
+		#	"57.141.13.0/24",		# fb
+			"57.141.16.0/22",		# geo-fb
+			"57.141.20.0/23",		# geo-fb
+			"57.144.0.0/14",		# geo-fb
+		#	"57.144.96.0/19",		# fb 2
+		#	"57.144.110.1",			# fb 2
+		#	"57.144.112.34",		# fb 2 
+		#	"57.144.222.0/24",		# fb 2
+		#	"57.144.244.0/24",		# fb 2
+		#	"57.144.248.0/24",		# fb 2
+
+			"64.124.144.128/27",	# Canada Meta Platforms, Inc 		- ZAYO-IPYX-090435-64-124-144-128-27
+			"64.125.74.124/30",		# United Kingdom Meta Platforms, Inc - ZAYO-IDIA-393366-64-125-74-124-30
+			"64.125.189.94/31",		# United States Meta Platforms, Inc	- NET-64-125-189-94-31
+			"64.125.220.92/30",		# United States Meta Platforms, Inc	- ZAYO-64-125-220-92-30
+
+			"66.111.48.0/22",		# WhatsApp (WHATS) - WHATS
+
+		#### 66.220.0.0/19		Hurricane Electric LLC (HURC) - HURRICANE-3
+		#	"66.220.0.0/16",		# fb 2
+			"66.220.144.0/20",		# geo-fb
+
+		#### 69.63.0.0/19 		Aureon Network Services AUREON-BLK13 (NET-69-63-0-0-1)
+		#	"69.63.0.0/16",			# fb 2
+
+			"69.63.176.0/20",		# Facebook, Inc. (THEFA-3) - TFBNET2
+
+		#### 69.171.0.0/18		Latisys-Ashburn, LLC (LATIS1) - PTPTECH-ARIN-BLK4
+		#	"69.171.0.0/16",		# fb 2
+			
+			"69.171.224.0/19",		# Facebook, Inc. (THEFA-3) - TFBNET3
+
+		#### 74.119.0.0/22		Northern Computer Solutions Ltd. (NORTH-304) - NCSL-PRI-BLK
+		#	"74.119.0.0/16",		# fb 2
+
+			"74.119.76.0/22",		# Facebook, Inc. (THEFA-3) - TFBNET4
+
+		#### 75.126.0.0/16		IBM Cloud (IBMC-24) - SOFTLAYER-4-3
+			"75.126.39.32/27",		# wa-2
+
+			"76.53.199.0/30",		# United States Meta Platforms, Inc	- META-PLATFORMS-INC
+
+		#### 77.0.0.0/8			RIPE Network Coordination Centre (RIPE) - 77-RIPE
+			"77.240.43.0/24",		# fb 2
+
+		#### 87.0.0.0/8			RIPE Network Coordination Centre (RIPE) - 87-RIPE
+			"87.245.208.0/24",		# fb 2
+			"87.245.223.97/32",		# fb 2
+
+		#### 99.84.0.0/16		Amazon.com, Inc. AMAZO-CF (NET-99-84-0-0-1)
+		#	"99.84.0.0/16",			# fb 2
+			
+		#### 102.0.0.0/8		African Network Information Center (AFRINIC) - AFRINIC-102
+		#	"102.132.0.0/16",		# fb 2
+			"102.132.96.0/19",		# geo-fb
+			"102.132.96.0/20",		# fb
+			"102.132.96.54/31",		# wa
+			"102.132.97.54/31",		# wa
+			"102.132.98.60/31",		# wa
+			"102.132.99.60/31",		# wa
+			"102.132.100.60/31",	# wa
+			"102.132.101.60/31",	# wa
+			"102.132.102.60/31",	# wa
+			"102.132.103.60/31",	# wa
+			"102.132.104.60/31",	# wa
+			"102.132.105.60/31",	# wa
+			"102.132.106.60/31",	# wa
+			"102.132.107.60/31",	# wa
+			"102.132.108.60/31",	# wa
+			"102.132.109.60/31",	# wa
+			"102.132.110.60/31",	# wa
+			"102.132.111.60/31",	# wa
+			"102.132.112.0/24",		# fb
+			"102.132.114.0/23",		# fb
+			"102.132.116.0/23",		# fb
+			"102.132.119.0/24",		# fb
+			"102.132.120.0/22",		# fb
+			"102.132.125.0/24",		# fb
+			"102.132.126.0/23",		# fb
+		#	"102.221.0.0/16",		# fb 2
+			"102.221.188.0/22",		# geo-fb
+
+		#### 103.0.0.0/8		Asia Pacific Network Information Centre (APNIC) - APNIC-103
+		#	"103.4.0.0/16",			# fb 2
+			"103.4.96.0/22",		# geo-fb
+
+		#### 108.168.128.0/17	IBM Cloud (IBMC-24) - SOFTLAYER-4-11
+			"108.168.174.0/27",		# wa-2
+			"108.168.176.192/26",	# wa-2
+			"108.168.177.0/27",		# wa-2
+			"108.168.180.96/27",	# wa-2
+			"108.168.254.65/32",	# wa-2
+			"108.168.255.224/32",	# wa-2
+			"108.168.255.227/32",	# wa-2
+
+		#### 114.0.0.0/8		Asia Pacific Network Information Centre (APNIC) - APNIC-114
+			"114.17.22.120/29",		# Japan Meta Platforms, Inc			- META-DATAV4
+
+		#### 128.177.0.0/16		Zayo Bandwidth - ABOVENET-128-177
+			"128.177.59.188/30",	# United States Meta Platforms, Inc	- ZAYO-128-177-59-188-30
+			"128.177.80.250/31",	# United States Meta Platforms, Inc	- ZAYO-128-177-80-250-31
+
+			"129.134.0.0/16",		# Facebook, Inc. (THEFA-3) - THEFA-3
+
+		#### 138.204.0.0/16		Latin American and Caribbean IP address Regional Registry (LACNIC) - LACNIC-ERX-138-204-0-0
+			"138.204.239.144/29",	# Colombia Meta Platforms Inc		- CO-MPIN-LACNIC
+			"138.204.239.152/29",	# Colombia Meta Platforms Inc		- CO-MPIN-LACNIC
+
+		#### 142.250.0.0/15		Google LLC (GOGL) - GOOGLE
+		#	"142.250.0.0/15",		# fb 2
+			
+		#### 147.75.0.0/16		RIPE Network Coordination Centre (RIPE) - RIPE-ERX-147-75-0-0
+		#	"147.75.0.0/16",		# fb 2
+			"147.75.208.0/20",		# geo-fb
+
+			"157.240.0.0/16",		# Facebook, Inc. (THEFA-3) - THEFA-3
+
+		#### 158.85.0.0/16		IBM Cloud (IBMC-24) - SOFTLAYER-4-17
+			"158.85.0.96/27",		# wa-2
+			"158.85.5.192/27",		# wa-2
+			"158.85.46.128/27",		# wa-2
+			"158.85.48.224/27",		# wa-2
+			"158.85.58.0/25",		# wa-2
+			"158.85.61.192/27",		# wa-2
+			"158.85.224.160/27",	# wa-2
+			"158.85.233.32/27",		# wa-2
+			"158.85.249.128/27",	# wa-2
+			"158.85.254.64/27",		# wa-2
+			
+		#### 163.0.0.0/8		Asia Pacific Network Information Centre (APNIC) - APNIC-ERX-163
+		#	"163.70.0.0/16",		# fb 2
+			"163.70.128.0/17",		# fb
+			"163.70.128.0/17",		# geo-fb
+			"163.70.128.60/31",		# wa
+			"163.70.129.60/31",		# wa
+			"163.70.130.60/31",		# wa
+			"163.70.131.60/31",		# wa
+			"163.70.132.60/31",		# wa
+			"163.70.133.60/31",		# wa
+			"163.70.134.60/31",		# wa
+			"163.70.135.60/31",		# wa
+			"163.70.136.60/31",		# wa
+			"163.70.137.60/31",		# wa
+			"163.70.138.60/31",		# wa
+			"163.70.139.60/31",		# wa
+			"163.70.140.60/31",		# wa
+			"163.70.141.60/31",		# wa
+			"163.70.142.60/31",		# wa
+			"163.70.143.60/31",		# wa
+			"163.70.145.60/31",		# wa
+			"163.70.146.60/31",		# wa
+			"163.70.147.60/31",		# wa
+			"163.70.148.60/31",		# wa
+			"163.70.149.60/31",		# wa
+			"163.70.150.60/31",		# wa
+			"163.70.151.60/31",		# wa
+			"163.70.152.60/31",		# wa
+			"163.70.153.60/31",		# wa
+			"163.70.154.60/31",		# wa
+			"163.70.155.60/31",		# wa
+			"163.70.156.60/31",		# wa
+			"163.70.157.60/31",		# wa
+			"163.70.158.60/31",		# wa
+			"163.70.159.60/31",		# wa
+			"163.77.128.0/17",		# geo-fb
+		#	"163.114.0.0/16",		# fb 2
+			"163.114.128.0/20",		# geo-fb
+
+		#### 164.163.128.0/17	Latin American and Caribbean IP address Regional Registry (LACNIC) - LACNIC-ERX-164-163-0-0
+			"164.163.191.64/26",	# fb 2
+
+		#### 169.32.0.0/11		RIPE Network Coordination Centre (RIPE) - RIPE-ERX-169-32-0-0-1
+			"169.44.23.192/27",		# wa-2
+			"169.44.36.0/25",		# wa-2
+			"169.44.57.64/27",		# wa-2
+			"169.44.58.64/27",		# wa-2
+			"169.44.80.0/26",		# wa-2
+			"169.44.82.96/27",		# wa-2
+			"169.44.82.128/27",		# wa-2
+			"169.44.82.192/26",		# wa-2
+			"169.44.83.0/26",		# wa-2
+			"169.44.83.96/27",		# wa-2
+			"169.44.83.128/27",		# wa-2
+			"169.44.83.192/26",		# wa-2
+			"169.44.84.0/24",		# wa-2
+			"169.44.85.64/27",		# wa-2
+			"169.44.87.160/27",		# wa-2
+			"169.44.167.0/27",		# wa-2
+			"169.45.71.32/27",		# wa-2
+			"169.45.71.96/27",		# wa-2
+			"169.45.87.128/26",		# wa-2
+			"169.45.169.192/27",	# wa-2
+			"169.45.182.96/27",		# wa-2
+			"169.45.210.64/27",		# wa-2
+			"169.45.214.224/27",	# wa-2
+			"169.45.219.224/27",	# wa-2
+			"169.45.237.192/27",	# wa-2
+			"169.45.238.32/27",		# wa-2
+			"169.45.248.96/27",		# wa-2
+			"169.45.248.160/27",	# wa-2
+			"169.46.52.224/27",		# wa-2
+			"169.46.111.144/28",	# wa-2
+			"169.47.5.192/26",		# wa-2
+			"169.47.6.64/27",		# wa-2
+			"169.47.33.128/27",		# wa-2
+			"169.47.35.32/27",		# wa-2
+			"169.47.37.128/27",		# wa-2
+			"169.47.40.128/27",		# wa-2
+			"169.47.42.96/27",		# wa-2
+			"169.47.42.160/27",		# wa-2
+			"169.47.42.192/26",		# wa-2
+			"169.47.47.160/27",		# wa-2
+			"169.47.130.96/27",		# wa-2
+			"169.47.192.192/27",	# wa-2
+			"169.47.194.128/27",	# wa-2
+			"169.47.198.128/27",	# wa-2
+			"169.47.212.160/27",	# wa-2
+			"169.53.29.128/27",		# wa-2
+			"169.53.48.32/27",		# wa-2
+			"169.53.71.224/27",		# wa-2
+			"169.53.81.64/27",		# wa-2
+			"169.53.250.128/26",	# wa-2
+			"169.53.252.64/27",		# wa-2
+			"169.53.255.64/27",		# wa-2
+			"169.54.2.160/27",		# wa-2
+			"169.54.44.224/27",		# wa-2
+			"169.54.51.32/27",		# wa-2
+			"169.54.55.192/27",		# wa-2
+			"169.54.193.160/27",	# wa-2
+			"169.54.210.0/27",		# wa-2
+			"169.54.222.128/27",	# wa-2
+			"169.55.67.224/27",		# wa-2
+			"169.55.69.128/26",		# wa-2
+			"169.55.74.32/27",		# wa-2
+			"169.55.75.96/27",		# wa-2
+			"169.55.100.160/27",	# wa-2
+			"169.55.126.64/26",		# wa-2
+			"169.55.210.96/27",		# wa-2
+			"169.55.235.160/27",	# wa-2
+
+		#### 173.192.0.0/15		IBM Cloud (IBMC-24) - SOFTLAYER-4-8
+			"173.192.162.32/27",	# wa-2
+			"173.192.219.128/27",	# wa-2
+			"173.192.222.160/27",	# wa-2
+			"173.192.231.32/27",	# wa-2
+			"173.193.205.0/27",		# wa-2
+			"173.193.230.96/27",	# wa-2
+			"173.193.230.128/27",	# wa-2
+			"173.193.230.192/27",	# wa-2
+			"173.193.239.0/27",		# wa-2
+
+		#### 173.194.0.0/16		Google LLC (GOGL) - GOOGLE
+			"173.194.10.0/24",		# fb 2
+
+			"173.252.64.0/18",		# Facebook, Inc. (THEFA-3) - FACEBOOK-INC
+
+		#### 174.36.0.0/15		IBM Cloud (IBMC-24) - SOFTLAYER-4-7
+			"174.36.208.128/27",	# wa-2
+			"174.36.210.32/27",		# wa-2
+			"174.36.251.192/27",	# wa-2
+			"174.37.199.192/27",	# wa-2
+			"174.37.217.64/27",		# wa-2
+			"174.37.243.64/27",		# wa-2
+			"174.37.251.0/27",		# wa-2
+
+		#### 179.0.0.0/8		Latin American and Caribbean IP address Regional Registry (LACNIC) - LACNIC-179
+		#	"179.60.0.0/16",		# fb 2
+			"179.60.192.0/22",		# geo-fb
+		#	"179.60.192.49",		# wa
+		#	"179.60.192.51"			# wa-2
+		#	"179.60.192.51",		# wa
+		#	"179.60.193.60/31",		# wa
+		#	"179.60.194.53",		# wa
+		#	"179.60.194.54",		# wa
+		#	"179.60.195.49",		# wa
+		#	"179.60.195.51",		# wa
+		#	"179.60.195.51"			# wa-2
+
+		#### 184.60.0.0/15		TDS TELECOM - NETBLK-TDSNET-BLK
+			"184.60.165.120/29",	# United States Meta Platforms, Inc	- BENDOR-METAPLA-TDSNET-NETBLK
+
+		#### 184.172.0.0/15		IBM Cloud (IBMC-24) - NETBLK-THEPLANET-BLK-17
+			"184.173.136.64/27",	# wa-2
+			"184.173.147.32/27",	# wa-2
+			"184.173.161.64/32",	# wa-2
+			"184.173.173.116/32",	# wa-2
+			"184.173.179.32/27",	# wa-2
+
+		#### 185.0.0.0/8		RIPE Network Coordination Centre (RIPE) - RIPE-185
+		#	"185.60.0.0/16",		# fb 2
+			"185.60.216.0/22",		# geo-fb
+		#	"185.60.216.53",		# wa
+		#	"185.60.216.54",		# wa
+		#	"185.60.216.53",		# wa-2
+		#	"185.60.217.53",		# wa
+		#	"185.60.217.54",		# wa
+		#	"185.60.218.53",		# wa
+		#	"185.60.218.53",		# wa-2
+		#	"185.60.218.54",		# wa
+		#	"185.60.219.53",		# wa-2
+		#	"185.60.219.60/31",		# wa
+		#	"185.89.0.0/16",		# fb 2
+			"185.89.216.0/22",		# geo-fb
+
+		#### 189.0.0.0/8		Latin American and Caribbean IP address Regional Registry (LACNIC) - NET189
+			"189.233.203.0/24",		# geo-fb
+			"189.247.71.0/24",		# geo-fb
+
+		#### 192.155.192.0/18	IBM Cloud (IBMC-24) - SOFTLAYER-4-13
+			"192.155.212.192/27",	# wa-2
+
+		#### 196.0.0.0/8		African Network Information Center (AFRINIC) - NET196
+			"196.49.68.0/23",		# geo-fb
+
+		#### 198.11.192.0/18	IBM Cloud (IBMC-24) - SOFTLAYER-4-14
+			"198.11.193.182/31",	# wa-2
+			"198.11.251.32/27",		# wa-2
+
+		#### 198.23.64.0/18		IBM Cloud (IBMC-24) - SOFTLAYER-4-12
+			"198.23.80.0/27",		# wa-2
+
+		!!!
+		#### 199.201.0.0/21		HARPER COLLINS PUBLISHERS INC. (HCP-11) - HARPERCOLLIN
+			"199.201.0.0/16",		# fb 2
+
+			"199.201.64.0/22",		# Facebook Inc (FACEB-1) - FACEBOOK-CORP
+
+			"204.15.20.0/22",		# Facebook, Inc. (THEFA-3) - TFBNET1
+
+		#### 206.47.43.0-206.47.255.255  	Bell Canada - WORLDLINX03
+			"206.47.120.0/29",		# Canada Meta Platforms Inc			- FAC15-03861-210300-20-20151116-CA
+
+		#### 207.126.96.0-207.126.127.255		Zayo Bandwidth - ABOVENET-1
+			"207.126.104.36/30",	# United States Meta Platforms, Inc	- NET-207-126-104-36-30
+
+		#### 208.43.0.0/16		IBM Cloud (IBMC-24) - SOFTLAYER-4-6
+			"208.43.115.192/27",	# wa-2
+			"208.43.117.79/32",		# wa-2
+			"208.43.122.128/27",	# wa-2
+
+		#### 208.100.128.0-208.100.191.255		TDS TELECOM NETBLK-TDSNET-BEND
+			"208.100.190.64/29",	# United States Meta Platforms, Inc	- BENDOR-METAPLA-TDSNET-NETBLK
+			"208.100.190.72/29",	# United States Meta Platforms, Inc	- BENDOR-METAPLA-TDSNET-NETBLK
+
+		#### 208.184.0.0-208.185.255.255		Zayo Bandwidth - ABOVENET-6
+			"208.184.216.144/30",	# United States Meta Platforms, Inc	- ZAYO-208-184-216-144-30
+			"208.185.24.48/31",		# Canada Meta Platforms, Inc		- ZAYO-208-185-24-48-31
+			"208.185.69.144/28",	# United States Meta Platforms, Inc	- ZAYO-IPYX-363436-208-185-69-144-28
+			"208.185.70.136/30",	# Canada Meta Platforms, Inc		- ZAYO-208-185-70-136-30
+
+		#### 209.66.64.0-209.66.127.255			Zayo Bandwidth - NETBLK-ABOVENET2
+			"209.66.118.168/30",	# Mexico Meta Platforms, Inc		- ZAYO-209-66-118-168-30
+
+		#### 209.133.0.0-209.133.127.255		Zayo Bandwidth - NETBLK-ABOVENET-3
+			"209.133.36.116/31",	# United Kingdom Meta Platforms, Inc - ZAYO-IPYX-363436-209-133-36-116-31
+			"209.133.98.32/30",		# Canada Meta Platforms, Inc		- ZAYO-209-133-98-32-30
+			"209.133.108.128/30",	# France Meta Platforms, Inc		- ZAYO-IDIA-372339-209-133-108-128-30
+
+		#### 209.170.64.0-209.170.127.255		Arelion - ARELION
+			"209.170.74.16/28",		# United States Meta Platforms, Inc	- META
+			"209.170.74.48/28",		# United States Meta Platforms, Inc	- META
+
+		#### 209.249.0.0/16		Zayo Bandwidth ABOVENET-4
+			"209.249.35.52/30",		# United States Meta Platforms, Inc	- ZAYO-209-249-35-52-30
+			"209.249.138.236/31",	# Canada Meta Platforms, Inc		- ZAYO-209-249-138-236-31
+
+		#### 213.0.0.0/8		RIPE Network Coordination Centre (RIPE) - RIPE-213
+			"213.102.128.0/24",		# fb 2
+		]
+	}]
+}
