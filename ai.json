@@ -1,0 +1,121 @@
+{
+	"rules": [{
+		"domain_keyword": [
+			"chatgpt",
+			"openai",
+			"openaicom-api"
+		]
+	},{
+		"domain": [
+			"algolia.net",
+			"api.statsig.com",
+			"auth0.com",
+			"client-api.arkoselabs.com",
+			"openai-api.arkoselabs.com",
+			"events.statsigapi.net",
+			"featuregates.org",
+			"identrust.com",
+			"intercom.io",
+			"intercomcdn.com",
+			"launchdarkly.com",
+			"observeit.net",
+			"poe.com",
+			"segment.io",
+			"static.cloudflareinsights.com",
+			"stripe.com",
+# Main domain",
+			"chat.com",
+			"chatgpt.com",
+			"crixet.com",
+			"oaistatic.com",
+			"oaiusercontent.com",
+			"openai.com",
+			"sora.com",
+# CDN & API
+			"challenges.cloudflare.com",
+			"openaiapi-site.azureedge.net",
+			"openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+			"openaicom.imgix.net",
+			"openaicomproductionae4b.blob.core.windows.net",
+			"production-openaicom-storage.azureedge.net",
+# tracking
+			"browser-intake-datadoghq.com",
+# Advanced Voice
+			"chatgpt.livekit.cloud",
+			"host.livekit.cloud",
+			"turn.livekit.cloud"
+		]
+	},{
+		"domain_suffix": [
+			".ai",
+			"algolia.net",
+			"auth0.com",
+			"challenges.cloudflare.com",
+			"client-api.arkoselabs.com",
+			"events.statsigapi.net",
+			"featuregates.org",
+			"identrust.com",
+			"intercom.io",
+			"intercomcdn.com",
+			"launchdarkly.com",
+			"oaistatic.com",
+			"oaiusercontent.com",
+			"observeit.net",
+			"poe.com",
+			"segment.io",
+			"stripe.com",
+# Main domain",
+			"chat.com",
+			"chatgpt.com",
+			"crixet.com",
+			"oaistatic.com",
+			"oaiusercontent.com",
+			"openai.com",
+			"sora.com",
+# CDN & API
+			"cdn.cloudflare.net",
+			"openaiapi-site.azureedge.net",
+			"openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+			"openaicom.imgix.net",
+			"openaicomproductionae4b.blob.core.windows.net",
+			"production-openaicom-storage.azureedge.net",
+# tracking
+			"sentry.io",
+			"browser-intake-datadoghq.com",
+# Advanced Voice
+			"chatgpt.livekit.cloud",
+			"host.livekit.cloud",
+			"turn.livekit.cloud"
+		]
+	},{
+		"ip_cidr": [
+			"8.6.112.0/24",
+			"8.47.69.0/24",
+			"24.199.123.28/32",
+			"45.32.12.145/32",
+			"45.76.214.191/32",
+			"64.23.132.171/32",
+			"104.18.32.0/24",
+			"104.18.35.28/32",
+			"104.18.37.0/24",
+			"104.18.39.85/32",
+			"104.18.41.241/32",
+			"104.238.150.13/32",
+			"143.110.232.239/32",
+			"143.198.200.27/32",
+			"159.89.204.203/32",
+			"162.159.140.0/24",
+			"164.92.115.213/32",
+			"164.92.71.155/32",
+			"172.64.146.15/32",
+			"172.64.148.171/32",
+			"172.64.150.0/24",
+			"172.64.152.228/32",
+			"172.64.155.209/32",
+			"172.64.155.214/32",
+			"188.114.98.0/24",
+			"188.114.99.0/24"
+		]
+	}],
+	"version": 2
+}
